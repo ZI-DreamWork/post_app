@@ -1,16 +1,7 @@
 # post_app
 
-A new Flutter project.
+A Simple post app using bloc
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a simple Flutter application that demonstrates effective state management using the BLoC (Business Logic Component) pattern. The project follows a clean architecture approach, separating concerns into three layers: Data, Domain, and Presentation. Additionally, it integrates with the https://jsonplaceholder.typicode.com API to fetch and display data.
